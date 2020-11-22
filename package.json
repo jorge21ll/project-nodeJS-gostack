@@ -31,5 +31,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "uuid": "^8.3.0"
-  }
+  },
+  "repository": "https://github.com/jorge21ll/project-nodeJS-gostack.git",
+  "author": "Jorge Lucio <jorge.lllucio@gmail.com>"
 }
